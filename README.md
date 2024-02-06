@@ -1,7 +1,27 @@
-## 🇦🇷 Hola! 👋
+## 🇦🇷 Hola! 👋 Repo en construcción... 🛠
+- 📚 Estudiando: Análisis Matemático y React.js
+- 💻 Lenguajes de programación:
+  - C / C++
+  - Java
+  - Python
+  - React
+  - JavaScript
+  - HTML
+  - CSS
+  - x86 Assembly
 
-## 🇺🇸 Hi there! 👋
-
+  
+## 🇺🇸 Hi there! 👋 Repo under development... 🛠
+- 📚 Currently studying: Calculus and React.js
+- 💻 Programming Languages:
+  - C / C++
+  - Java
+  - Python
+  - React
+  - JavaScript
+  - HTML
+  - CSS
+  - x86 Assembly
 <!--
 **0xEzequiel/0xEzequiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
