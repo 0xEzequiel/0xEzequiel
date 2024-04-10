@@ -1,5 +1,5 @@
 ## 🇦🇷 Hola! 👋 Repo en construcción... 🛠
-- 📚 Estudiando: Análisis Matemático y React.js
+- 📚 Estudiando: Algoritmos y Estructuras de Datos III, Paradigmas de Programación y React.js
 - 💻 Lenguajes de programación:
   - C / C++
   - Java
@@ -12,7 +12,7 @@
 
   
 ## 🇺🇸 Hi there! 👋 Repo under development... 🛠
-- 📚 Currently studying: Calculus and React.js
+- 📚 Currently studying: Algorithms and Data Structures III, Programming Paradigms and React.js
 - 💻 Programming Languages:
   - C / C++
   - Java
