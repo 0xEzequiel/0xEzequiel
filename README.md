@@ -1,4 +1,4 @@
-## 🇦🇷 Hola! 👋 Repo en construcción... 🛠
+## 🇦🇷 Hola! 👋
 - 💻 Lenguajes de programación:
   - C / C++
   - Java
@@ -11,7 +11,7 @@
   - x86 Assembly
 
   
-## 🇺🇸 Hi there! 👋 Repo under development... 🛠
+## 🇺🇸 Hi there! 👋
 - 💻 Programming Languages:
   - C / C++
   - Java
